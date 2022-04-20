@@ -1,0 +1,8 @@
+.join-room-form {
+  margin-top: 40vh;
+  border: 1px black solid;
+  max-width: 350px;
+  margin-left: auto;
+  margin-right: 45%;
+  padding: 10px;
+}
